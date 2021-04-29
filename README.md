@@ -1,2 +1,2 @@
 # chilite
-Chat on c# stack
+Moved to https://github.com/egorozh/Chilite
